@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adipginting
 - 👀 I’m interested in the world wide web, computational physics, and artificial intelligence.
-- 🌱 I’m currently learning nodejs, reactjs, c++, and golang.
+- 🌱 I’m currently learning javascript (node, react, mongo), c++, php (laravel), c# (dotnet core), golang, redis, and SQL (postgreSQL, mySQL, sqlite, sequelize).
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 You can reach me here or if you want on Twitter @adipginting.
 
