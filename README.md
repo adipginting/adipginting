@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adipginting
 - 👀 I’m interested in the world wide web and software engineering.
 - 🌱 I’m currently working the javascript ecosystem.
-- 🚀 This year, I am will in JS/TS, PHP, Python, Golang, and Rust.
+- 🚀 This year, I am focusing on JavaScript, TypeScript, Python, and PHP.
 - 💞️ I’m looking to collaborate on building websites and distributed systems.
 - 📫 You can reach me here or if you want on Twitter @adipginting.
 
