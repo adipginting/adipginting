@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adipginting
-- 👀 I’m interested in the world wide web and software engineering.
-- 💞️ I’m looking to collaborate on building websites and distributed systems.
+- 👀 I’m interested in the computer science and physics.
+- 💞️ I’m looking to collaborate in programming.
 - 📫 You can reach me here or if you want on Twitter @adipginting.
 
 <!---
